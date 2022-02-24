@@ -1,0 +1,15 @@
+G:\Visual Studio work\Rabota_Arch\bin\Debug\Rabota_Arch.exe.config
+G:\Visual Studio work\Rabota_Arch\bin\Debug\Rabota_Arch.exe
+G:\Visual Studio work\Rabota_Arch\bin\Debug\Rabota_Arch.pdb
+G:\Visual Studio work\Rabota_Arch\obj\Debug\Rabota_Arch.csproj.AssemblyReference.cache
+G:\Visual Studio work\Rabota_Arch\obj\Debug\Rabota_Arch.csproj.SuggestedBindingRedirects.cache
+G:\Visual Studio work\Rabota_Arch\obj\Debug\Rabota_Arch.csproj.CoreCompileInputs.cache
+G:\Visual Studio work\Rabota_Arch\obj\Debug\Rabota_Arch.exe
+G:\Visual Studio work\Rabota_Arch\obj\Debug\Rabota_Arch.pdb
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\bin\Debug\Rabota_Arch.exe.config
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\bin\Debug\Rabota_Arch.exe
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\bin\Debug\Rabota_Arch.pdb
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\obj\Debug\Rabota_Arch.csprojAssemblyReference.cache
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\obj\Debug\Rabota_Arch.csproj.CoreCompileInputs.cache
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\obj\Debug\Rabota_Arch.exe
+C:\Users\siera\OneDrive\Рабочий стол\Rabota_Arch\obj\Debug\Rabota_Arch.pdb
